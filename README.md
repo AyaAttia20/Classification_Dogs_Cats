@@ -16,7 +16,8 @@ A simple Streamlit web app that uses a deep learning model to classify images as
 
 ## Demo
 
-![Screenshot 2025-05-19 134245](https://github.com/user-attachments/assets/50c64984-70c1-4a51-87ed-4a4ca9236165)
+![Screenshot 2025-05-19 134245](https://github.com/user-attachments/assets/357af494-4c68-4eb0-af6c-7c178be56075)
+
 
 #### There is file for Testing app (Test_data)
 
